@@ -1,2 +1,2 @@
 # project-1
-first unity project that i actually finished
+first unity project that i actually like
